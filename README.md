@@ -44,13 +44,13 @@ A PoC consistirá em um protótipo funcional contendo:
 * **Painel de Resultados:** Exibição da média das avaliações das últimas 2 horas, gerando o **"Índice de Conservação"**.
 * **Critério de Sucesso:** O sistema deve ser capaz de processar múltiplas avaliações simultâneas e atualizar o índice da linha em tempo real, provando a utilidade do *crowdsourcing* para a comunidade.
 
-### 🛠️ 5. Stack Tecnológica Sugerida
+### 5. Stack Tecnológica Sugerida
 * **Prototipagem (UI/UX):** Figma®.
 * **Desenvolvimento Mobile:** Flutter® ou React Native®.
 * **Backend e Banco de Dados:** Firebase® (Cloud Firestore® para dados em tempo real).
 * **Mapas:** Google Maps SDK®.
 
-## 📚 Referências
+## Referências
 
 * **EDENRED, Gestão de Mobilidade. **Transporte público no Brasil e realidade da jornada casa para o trabalho**. 2025. Disponível em: [Blog Edenred](https://blog.edenredmobilidade.com.br/gestao-mobilidade/transporte-publico-no-brasil/#:~:text=Uma%20pesquisa%20divulgada%20pela%20TVT%20News%20tamb%C3%A9m,atrasos%20constantes%20e%20inseguran%C3%A7a%20como%20principais%20queixas). Acesso em: 28 nov. 2025.
 
