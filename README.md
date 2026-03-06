@@ -27,7 +27,6 @@ A solução proposta é um aplicativo focado na avaliação da qualidade do serv
 ### 3. Visão do Produto
 O objetivo central é transformar a insatisfação individual em dados estruturados e acionáveis para órgãos reguladores e mídia, promovendo o engajamento cívico. Ao focar no *crowdsourcing* de dados de infraestrutura, o produto empodera as classes dependentes do sistema, gerando informações precisas para exigir investimentos e melhorias concretas na mobilidade urbana.
 
-
 ### 4. Prova de Conceito (PoC)
 
 A viabilidade técnica e o modelo de engajamento do projeto serão validados através do **Módulo de Auditoria Cidadã**. O objetivo é testar o fluxo principal de coleta e exibição de dados de infraestrutura em tempo real.
@@ -57,3 +56,4 @@ A PoC consistirá em um protótipo funcional contendo:
 * **RODRIGUES, A. S. **A crise da mobilidade e a infraestrutura do transporte público nas metrópoles brasileiras**. Revista Brasileira de Planejamento Urbano, v. 12, n. 2, p. 45-67, 2022.
 
 * **RODRIGUES, A. S. **Transporte e desigualdade: o impacto da má conservação na rotina do trabalhador**. 2. ed. Rio de Janeiro: Editora Acadêmica, 2023.
+
