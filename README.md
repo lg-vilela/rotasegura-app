@@ -57,3 +57,4 @@ A PoC consistirá em um protótipo funcional contendo:
 
 * **RODRIGUES, A. S. **Transporte e desigualdade: o impacto da má conservação na rotina do trabalhador**. 2. ed. Rio de Janeiro: Editora Acadêmica, 2023.
 
+
